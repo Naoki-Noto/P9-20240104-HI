@@ -1,21 +1,33 @@
 # P9-20240104-HI
 # Table of Contents
 code_result/
-- Database_properties_ReL: Code and results for comparing chemical spaces and molecular weight distributions.
+- Additional_edbo: Code and results for XX.
 
-- Make_database_adapt1: Code and results for making databases.
+- OPSsearch_OCH2F: Code and results for XX.
 
-  • HGB: Code for SHAP-based analysis based on HGB models.
+- OPSsearch_OoS: Code and results for XX.
 
-  • data: Code for generating pre-training labels.
+- OPSsearch_P: Code and results for XX.
 
-- MolGeneration_ReL: Code for reinforcement learning-based molecular generators.
+- OPSsearch_Si: Code and results for XX.
 
-- Pubchem_ReL: Code and results for checking whether molecules are registered in PubChem.
+- OPSsearch_edbo: Code and results for XX.
 
-- pkl_files_Deep2: Code for generating pkl files.
+- OPSsearch_edbo_sc: Code and results for XX.
 
-- pkl_files_Deep2: Code for generating pkl files.
+- OPSsearch_others: Code and results for XX.
+
+- OPSsearch_random: Code and results for XX.
+
+- OPSsearch_woTL: Code and results for XX.
+
+- Regression: Code and results for XX.
+
+- analysis: Code and results for XX.
+
+- demo: Code and results for XX.
+
+- results/results_OoS/results_others/results_reg: Storage of ML results.
 
 ==========================================================================
   
