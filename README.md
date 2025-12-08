@@ -1,7 +1,10 @@
 # P9-20240104-HI
 # Table of Contents
 code_result/
-- Additional_edbo: Bayesian optimization with a random forest-based surrogate model.
+
+- Additional_baybe: Testing the search efficiency of another bayesian optimization algorithm.
+
+- Additional_edbo_RF: Bayesian optimization with a random forest-based surrogate model.
 
 - Additional_publicdata: Optimization for identifying the optimal OPSs in publicly available dataset.
 
